@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack - Personal Finance SaaS",
+  "description": "Premium personal finance management SaaS. Track spending, manage budgets, analyze trends, and achieve financial clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
